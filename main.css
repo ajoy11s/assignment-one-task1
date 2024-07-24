@@ -1,0 +1,35 @@
+.bg{
+   background-color: #f6f6f6;
+   justify-content: center; 
+   align-items: center;
+   display: flex;
+   flex-direction: column;   
+}
+.main-div{
+    background-color: #FFF;
+    height: 350px;
+    width: 35%;
+    margin: 0px 30px 20px 30px;
+    padding-top: 20px;
+    justify-content: center; 
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 0px 0px 200px 200px;
+   }
+   .sub-div{
+    width: 35%;
+    margin: 20px 30px 20px 30px;
+    justify-content: center; 
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+   }
+  .btn-next{
+    height: 50px;
+    width: 150px;
+    background-color: black;
+    color: #FFF;
+  }
+ 
